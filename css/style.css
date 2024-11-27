@@ -654,7 +654,7 @@ body {
   height: 16.75rem;
   -webkit-transform: translateY(-40%);
   transform: translateY(-40%);
-  background: url(../img/decor-v-light.webp) 0 0 no-repeat;
+  background: url(../img/decor-v-light.png) 0 0 no-repeat;
   background-size: contain
 }
 .comment__top {
