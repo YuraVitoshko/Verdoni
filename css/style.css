@@ -1938,7 +1938,7 @@ body {
   .julia {
     clip-path: none;
     margin-top: 0;
-    padding-top: 6.25rem;
+    padding-top: 3.125rem;
     padding-bottom: 4.375rem
   }
   .julia::after {
