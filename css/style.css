@@ -575,6 +575,7 @@ body {
 .item-our-team__avatar {
   flex: 0 0 12.9375rem;
   max-width: 12.9375rem;
+  height: 12.9375rem;
   border-radius: 100%;
   border: .0625rem solid #c39e7c;
   box-shadow: 0 1.25rem 1.875rem 0 rgba(0,0,0,.4);
@@ -3957,6 +3958,11 @@ body {
   }
   .our-team__text {
     flex-direction: column
+  }
+  .item-our-team__avatar {
+    flex: 0 0 8.125rem;
+    max-width: 8.125rem;
+    height: 8.125rem
   }
   .item-our-team__info {
     font-size: 1rem
