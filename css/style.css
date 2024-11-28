@@ -183,7 +183,9 @@ body {
 }
 .footer__logo img {
   width: 100%;
-  height: 100%
+  height: 100%;
+  -o-object-fit: contain;
+  object-fit: contain
 }
 .footer__text {
   line-height: 1.5;
@@ -1814,7 +1816,8 @@ body {
   }
   .hero {
     background-color: #421d1e;
-    height: 100%
+    height: 100%;
+    padding-bottom: 2.5rem
   }
   .hero__bg {
     display: none
@@ -1858,7 +1861,8 @@ body {
   .info {
     clip-path: none;
     padding: 2.5rem 0;
-    margin-top: 0
+    margin-top: -.0625rem;
+    border: none
   }
   .our-team {
     clip-path: none;
@@ -1918,6 +1922,18 @@ body {
   }
   .assortment-bags__item:nth-child(5) {
     display: none
+  }
+  .assortment-bags__item:nth-child(1) {
+    order: 1
+  }
+  .assortment-bags__item:nth-child(2) {
+    order: 1
+  }
+  .assortment-bags__item:nth-child(3) {
+    order: 4
+  }
+  .assortment-bags__item:nth-child(4) {
+    order: 3
   }
   .julia {
     clip-path: none;
