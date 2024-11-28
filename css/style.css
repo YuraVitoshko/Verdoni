@@ -272,7 +272,7 @@ body {
   background-color: #421d1e;
   clip-path: polygon(0 20%,100% 0,100% 100%,0 80%);
   padding: 6.25rem 0;
-  margin-top: -5rem;
+  margin-top: -6.25rem;
   border: .0625rem solid #000
 }
 .info__container {
