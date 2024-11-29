@@ -3432,7 +3432,9 @@ body {
     margin-left: 16.375rem
   }
   .content-julia__image img {
-    max-height: 40.625rem
+    max-height: 51.875rem;
+    -o-object-position: 0 80%;
+    object-position: 0 80%
   }
   .maryna-aristova {
     padding-bottom: 10rem
@@ -4038,13 +4040,15 @@ body {
   .content-julia__image {
     order: -1;
     max-height: 31.25rem;
-    max-width: 100%
+    max-width: 31.25rem
   }
   .content-julia__image:not(:last-child) {
     margin-bottom: 3.25rem
   }
   .content-julia__image img {
-    max-height: 31.25rem
+    max-height: 31.25rem;
+    -o-object-position: 0 90%;
+    object-position: 0 90%
   }
   .comment {
     padding-top: 2.5rem;
@@ -4154,7 +4158,7 @@ body {
   .content-maryna-aristova__image {
     order: -1;
     max-height: 31.25rem;
-    max-width: 100%
+    max-width: 31.25rem
   }
   .content-maryna-aristova__image:not(:last-child) {
     margin-bottom: 3.25rem
@@ -4296,7 +4300,9 @@ body {
     width: 22.5rem
   }
   .content-julia__image img {
-    max-height: 25rem
+    max-height: 25rem;
+    -o-object-position: bottom;
+    object-position: bottom
   }
   .comment__text {
     max-width: 10rem
