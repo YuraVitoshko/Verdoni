@@ -4154,6 +4154,9 @@ body {
     width: 3.8125rem;
     height: 2.8125rem
   }
+  .content-maryna-aristova__text:not(:last-child) {
+    margin-bottom: 1.25rem
+  }
   .content-maryna-aristova__bottom {
     display: grid
   }
