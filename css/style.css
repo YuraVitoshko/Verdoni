@@ -4157,16 +4157,16 @@ body {
   }
   .content-maryna-aristova__image {
     order: -1;
-    max-height: 31.25rem;
+    max-height: 37.5rem;
     max-width: 31.25rem
   }
   .content-maryna-aristova__image:not(:last-child) {
     margin-bottom: 3.25rem
   }
   .content-maryna-aristova__image img {
-    max-height: 31.25rem;
-    -o-object-position: 0 35%;
-    object-position: 0 35%
+    max-height: 37.5rem;
+    -o-object-position: 0 90%;
+    object-position: 0 90%
   }
   .anastasia {
     padding-bottom: 3.9375rem;
@@ -4318,11 +4318,11 @@ body {
   .content-maryna-aristova__image {
     justify-self: end;
     margin-right: -1.25rem;
-    max-height: 25rem;
+    max-height: 28.125rem;
     width: 22.5rem
   }
   .content-maryna-aristova__image img {
-    max-height: 25rem
+    max-height: 28.125rem
   }
   .result__image {
     max-height: 25rem
