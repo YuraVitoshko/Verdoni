@@ -3475,7 +3475,9 @@ body {
     margin-left: 16.375rem
   }
   .content-maryna-aristova__image img {
-    max-height: 40.625rem
+    max-height: 40.625rem;
+    -o-object-position: bottom;
+    object-position: bottom
   }
 }
 @media (max-width:90em)and (max-width:62em) {
